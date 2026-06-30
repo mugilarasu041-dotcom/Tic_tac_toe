@@ -1,0 +1,6 @@
+{
+  "name": "Tic-Tac-Toe",
+  "description": "An offline responsive Tic-Tac-Toe game with smart AI, Room-persisted match history, multiple grid sizes, and beautiful custom styles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
